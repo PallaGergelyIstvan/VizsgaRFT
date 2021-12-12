@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="9.0.1">
-<file name="C:\Users\istva\Documents\_GIT\geri\vizsgaRFT\src\main\java\org\example\vizsgarft\config\SecurityConf.java">
+<file name="C:\Users\istva\Documents\_GIT\geri\VizsgaRFT\src\main\java\org\example\vizsgarft\config\SecurityConf.java">
 <error line="11" column="1" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
 </file>
-<file name="C:\Users\istva\Documents\_GIT\geri\vizsgaRFT\src\main\java\org\example\vizsgarft\config\WebConfig.java">
+<file name="C:\Users\istva\Documents\_GIT\geri\VizsgaRFT\src\main\java\org\example\vizsgarft\config\WebConfig.java">
 <error line="8" column="1" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
 </file>
-<file name="C:\Users\istva\Documents\_GIT\geri\vizsgaRFT\src\main\java\org\example\vizsgarft\Controller\HomeController.java">
+<file name="C:\Users\istva\Documents\_GIT\geri\VizsgaRFT\src\main\java\org\example\vizsgarft\Controller\HomeController.java">
 <error line="8" column="1" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
 </file>
-<file name="C:\Users\istva\Documents\_GIT\geri\vizsgaRFT\src\main\java\org\example\vizsgarft\domain\Exams.java">
+<file name="C:\Users\istva\Documents\_GIT\geri\VizsgaRFT\src\main\java\org\example\vizsgarft\domain\Exams.java">
 <error line="4" column="1" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
 </file>
-<file name="C:\Users\istva\Documents\_GIT\geri\vizsgaRFT\src\main\java\org\example\vizsgarft\domain\Role.java">
+<file name="C:\Users\istva\Documents\_GIT\geri\VizsgaRFT\src\main\java\org\example\vizsgarft\domain\Role.java">
+<error line="12" column="1" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\istva\Documents\_GIT\geri\VizsgaRFT\src\main\java\org\example\vizsgarft\domain\User.java">
 <error line="6" column="25" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - javax.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
 <error line="8" column="1" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
 </file>
-<file name="C:\Users\istva\Documents\_GIT\geri\vizsgaRFT\src\main\java\org\example\vizsgarft\domain\User.java">
-<error line="6" column="25" severity="error" message="Using the &apos;.*&apos; form of import should be avoided - javax.persistence.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<file name="C:\Users\istva\Documents\_GIT\geri\VizsgaRFT\src\main\java\org\example\vizsgarft\reposotory\UserRepository.java">
 <error line="8" column="1" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
 </file>
-<file name="C:\Users\istva\Documents\_GIT\geri\vizsgaRFT\src\main\java\org\example\vizsgarft\reposotory\UserRepository.java">
-<error line="8" column="1" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
-</file>
-<file name="C:\Users\istva\Documents\_GIT\geri\vizsgaRFT\src\main\java\org\example\vizsgarft\service\UserDetailsImpl.java">
+<file name="C:\Users\istva\Documents\_GIT\geri\VizsgaRFT\src\main\java\org\example\vizsgarft\service\UserDetailsImpl.java">
 <error line="14" column="1" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
 </file>
-<file name="C:\Users\istva\Documents\_GIT\geri\vizsgaRFT\src\main\java\org\example\vizsgarft\VizsgaRftApplication.java">
+<file name="C:\Users\istva\Documents\_GIT\geri\VizsgaRFT\src\main\java\org\example\vizsgarft\VizsgaRftApplication.java">
 </file>
-<file name="C:\Users\istva\Documents\_GIT\geri\vizsgaRFT\src\main\resources\application.properties">
+<file name="C:\Users\istva\Documents\_GIT\geri\VizsgaRFT\src\main\resources\application.properties">
 </file>
 </checkstyle>
